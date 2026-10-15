@@ -1,0 +1,7 @@
+feature,importance
+adamic_adar,0.2455690414712899
+resource_allocation,0.2410795989247835
+preferential_attachment,0.18404151534764596
+jaccard,0.170112496788977
+degree_sum,0.08461934004288006
+common_neighbors,0.07457800742442354

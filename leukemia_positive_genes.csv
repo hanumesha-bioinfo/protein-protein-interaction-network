@@ -1,0 +1,250 @@
+symbol,globalScore,clinicalPrecedence,gwasCredibleSets,geneBurden,eva,gene2Phenotype,clingen,cancerGeneCensus,intogen,evaSomatic,cancerBiomarkers,crisprScreen,crispr,reactome,europepmc,expressionAtlas,label
+DNMT3A,0.8961930463566101,0.991205410728211,0.6524282423133356,0.8983240903063879,0.8886835563434999,No data,No data,0.9306413954602256,0.8349749973583718,0.735934004442068,0.607930797611621,No data,No data,No data,0.9932004589192429,No data,1
+FLT3,0.8792809916738497,0.9822622766860553,0.2652153370964137,No data,0.547137717850459,No data,No data,0.9130789501958897,0.9022631374517095,0.8479363796287446,0.9513974960387728,No data,0.39637086149020134,No data,0.9991535339262623,No data,1
+ABL1,0.8778831408881594,0.9954742206032722,No data,No data,0.8634395684036567,No data,No data,0.942507451508104,No data,0.57753425773104,0.9751960202125455,No data,No data,No data,0.997358535023999,No data,1
+PTPN11,0.8615737621308887,No data,No data,No data,0.9394569650084232,No data,No data,0.9317109934229689,0.8939180323348777,0.8483164225352448,No data,No data,0.3815594823235525,No data,0.9639475174288865,No data,1
+KIT,0.8555483294037305,0.9915074584407163,No data,No data,0.31574308752648705,No data,No data,0.8750832753451634,0.6584886721119593,0.547137717850459,0.9066612367713315,No data,No data,No data,0.9902357546326094,No data,1
+CEBPA,0.8553496425952579,No data,No data,No data,0.9296547218584053,0.607930797611621,0.607930797611621,0.9199316008082302,0.7091745046601965,0.9125459924976419,No data,No data,0.35547372614899714,No data,0.9909064548548865,No data,1
+BCR,0.8529384095293642,0.9954201316525659,No data,No data,0.2944418408217934,No data,No data,0.9306555580104489,0.42883852757025526,No data,No data,No data,No data,0.9471757543886921,0.9972769292042994,No data,1
+NOTCH1,0.8475363535574738,No data,0.5144783670664341,0.9749624418989509,0,No data,No data,0.9308079262111871,0.7578688282613161,0.547137717850459,0.8897742701710087,No data,No data,No data,0.9950278240002491,No data,1
+TP53,0.8467197600273763,0.5201864182921928,0.5275387914695087,0.9485055329205861,0.6839221473130737,No data,No data,0.7264975516312386,0.916565156618262,0.8725564427961651,0.7599134970145264,No data,No data,No data,0.9980082841854964,No data,1
+NRAS,0.8441736231743115,No data,No data,0.15198269940290526,0.547137717850459,No data,No data,0.9528675728780074,0.9199102272280099,0.7964197414111042,0.7599134970145264,No data,0.4912081030227654,No data,0.8610979644760104,No data,1
+RUNX1,0.8367471627264309,No data,No data,0.6080220094731528,0.8747371123870415,No data,No data,0.9515531033440202,0.8041510150768563,0.8165297234398872,No data,No data,0.44257363921383575,No data,0.9970258761229114,No data,1
+ASXL1,0.8341393167598184,No data,No data,0.9733143936824289,0.627435244034994,No data,No data,0.9531628608240715,0.8249222568836992,0.547137717850459,No data,No data,No data,No data,0.9767155154031119,No data,1
+SRSF2,0.8334251059449712,No data,No data,0.9851696876631088,No data,No data,No data,0.9475638805771671,0.607930797611621,0.7325566111220034,0.607930797611621,No data,No data,No data,0.927408806991529,No data,1
+TET2,0.8330409542491783,No data,No data,0.9955979864955882,0.2279740491043579,No data,No data,0.9549492348559895,0.7322548229073437,0.5927325276713306,No data,No data,No data,No data,0.9863363802944473,No data,1
+NF1,0.8231731868030512,No data,No data,No data,0.946253119751045,No data,No data,0.7212124220953569,0.7030903478371006,No data,0.865457038266544,No data,No data,No data,0.9222900830862322,No data,1
+KRAS,0.8206756482676013,No data,No data,0.29215346201004444,0.8564125494683867,No data,No data,0.7243697370258138,0.9067123765950115,0.83931980492093,0.7599134970145264,No data,0.41217709933325475,No data,0.9529681610672461,No data,1
+IDH1,0.81479929144491,0.9464424091107507,No data,No data,0.5592963338026914,No data,No data,0.7145860869483049,0.8533484413537522,0.607930797611621,0.8274613634158176,No data,No data,No data,0.9918633014328926,No data,1
+SF3B1,0.8108076336226392,No data,No data,0.9619816256594145,0,No data,No data,0.8711305403723488,0.8869454319850361,0.6839221473130737,No data,No data,No data,No data,0.9746634405364567,No data,1
+CBL,0.8048206427591065,No data,No data,No data,0.8875694363988437,No data,No data,0.9462196221490233,0.48271915603896337,0.7173583411817128,No data,No data,No data,No data,0.888546685021589,No data,1
+IDH2,0.8026365631614257,0.8559310333660775,No data,0.7669324961003756,No data,No data,No data,0.9366994653751648,0.8266060486126007,No data,0.607930797611621,No data,No data,No data,0.9897023838215975,No data,1
+GATA2,0.7997171111559583,No data,No data,No data,0.8328062746851076,No data,No data,0.9393411452705434,0.8027744039715221,No data,No data,No data,No data,No data,0.9737783770077187,No data,1
+JAK2,0.7996645689278379,0.8287929730949842,0.8096121261427801,No data,0.6774382433171148,No data,No data,0.8750832753451634,0.6872007508653809,0.6960807632653061,0.8274613634158176,No data,No data,0.607930797611621,0.9855413678216658,No data,1
+ETV6,0.7871959903079954,No data,No data,No data,0.7055374645614869,No data,No data,0.942778773351281,0.38860286014265405,0.6839221473130737,No data,No data,No data,No data,0.9880503749620752,No data,1
+BCL2,0.7725206898513267,0.9678840141023228,0.8324163997360896,No data,0,No data,No data,0.6205960225618631,No data,No data,No data,No data,0.25229128100882275,No data,0.9920850098885667,No data,1
+DDX41,0.770912350029974,No data,No data,0.9722506059499847,0.8004928777551021,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9026895714409637,No data,1
+SETBP1,0.7706942871251927,No data,No data,No data,0,No data,No data,0.9123035282601606,No data,No data,No data,No data,No data,No data,0.9316258090252902,No data,1
+BTK,0.7676509632207817,0.9850268555675912,No data,No data,No data,No data,No data,0.7915765593901316,No data,No data,0.607930797611621,No data,No data,No data,0.9806946050452852,No data,1
+IKZF1,0.7671677004084496,No data,0.619819136801515,No data,0.3044471987324073,No data,No data,0.9071027833690475,0.607930797611621,0.7905802589946653,No data,No data,No data,No data,0.9889691700778085,No data,1
+PDGFRB,0.7655006622200302,0.9915728778448942,No data,No data,0,No data,No data,0.845502033406071,No data,No data,No data,No data,No data,No data,0.8288759995370318,No data,1
+TERT,0.7582645371341534,0.1473387835878165,0.7995030154832623,No data,0.7855836385967372,No data,No data,0.6806477127944752,No data,No data,No data,No data,No data,No data,0.8537873214849488,No data,1
+NPM1,0.7466503836828404,0.12158615952232422,No data,No data,0.015198269940290528,No data,No data,0.8957079780618973,No data,0.8604057980227588,0.7599134970145264,No data,No data,No data,0.997080486278497,No data,1
+ATM,0.745048727151349,No data,No data,0.1899783742536316,0,No data,No data,0.9055829563750183,0.8550941069952205,0.7789113344398895,No data,No data,No data,No data,0.9637808306026163,No data,1
+KMT2A,0.7436824086033762,0.5734109380000366,No data,No data,0,No data,No data,0.9058205165689026,No data,No data,0.8897742701710087,No data,0.3261982952218515,No data,0.9983943803516132,No data,1
+MYD88,0.7419205378608794,No data,No data,0.9249449871595111,0,No data,No data,0.66019595923962,0.8415870771186165,No data,No data,No data,No data,No data,0.9364868345683066,No data,1
+CHD2,0.7406574625897031,No data,No data,0.9665910657821362,0,No data,No data,0.45646162377892996,0.7800402904854552,No data,No data,No data,No data,No data,0.3030765912593033,No data,1
+PDGFRA,0.7386844670587284,0.9622063818636635,No data,No data,0,No data,No data,0.7033548741300953,No data,No data,0.607930797611621,No data,No data,No data,0.75895127290605,No data,1
+CSF3R,0.736467436495724,0.6966319242255984,No data,No data,No data,No data,No data,0.9071714738969284,0.5393501824869894,0.547137717850459,0.607930797611621,No data,No data,No data,0.9249329760612054,No data,1
+RARA,0.7227306496383497,0.9614014316644702,No data,No data,0,No data,No data,0.821677577355207,No data,No data,No data,No data,No data,No data,0.9907296062332939,No data,1
+NBN,0.7183615755681735,No data,No data,No data,0.9285519960639511,No data,No data,0.6612513946521403,No data,No data,No data,No data,No data,No data,0.46071031073424923,No data,1
+WT1,0.7169088038700899,0.5641749535634378,No data,No data,0.50795995533771,No data,No data,0.911404222346534,0.6619788521490758,No data,No data,No data,No data,No data,0.9910008391549576,No data,1
+IRF4,0.7162837609376332,No data,0.9113919757452406,No data,0,No data,No data,0.8132340940550455,0.4252339488325096,No data,No data,No data,No data,No data,0.9399232835627596,No data,1
+BRAF,0.7135113058810739,0.6350315550716292,No data,No data,0,No data,No data,0.867919743679236,0.758556701201433,No data,0.607930797611621,No data,No data,No data,0.94478294285322,No data,1
+GATA1,0.7119677851886254,No data,No data,No data,No data,No data,No data,0.8419348361638872,No data,0.8452944137041243,No data,No data,0.3234191889675263,No data,0.8663312018942734,No data,1
+POLD1,0.7114427890257764,0.9934234432773804,No data,No data,0,No data,No data,0.6758982534381345,No data,No data,No data,No data,No data,No data,0.3542111663757487,No data,1
+GATA3,0.7100238027677251,No data,0.9098157898381702,No data,0.015198269940290528,No data,No data,0.8278809528410398,0.33421132821739574,No data,No data,No data,No data,No data,0.9149574055709627,No data,1
+STAT3,0.7099612726631441,0.06079307976116211,No data,No data,No data,No data,No data,0.9009157910175432,No data,0.5592963338026914,No data,No data,No data,No data,0.9889966734801461,No data,1
+POLE,0.7073496358454759,0.9934234432773804,No data,No data,0,No data,No data,0.6711487940817937,No data,No data,No data,No data,No data,No data,0.10466090622459702,No data,1
+EZH2,0.7068210888658752,0.06079307976116211,No data,0.44969970404237347,0,No data,No data,0.9473391962620017,0.6025360992647394,No data,No data,No data,No data,No data,0.9836353612464439,No data,1
+JAK3,0.703144903505593,0.47320123091315713,No data,No data,0,No data,No data,0.9239897499693703,0.2974341541920322,No data,0.607930797611621,No data,No data,No data,0.8646089934263823,No data,1
+U2AF1,0.7012085475999348,No data,No data,No data,No data,No data,No data,0.9437897183082489,0.7599134970145264,No data,No data,No data,No data,No data,0.8850025485006346,No data,1
+XPO1,0.7009063097889214,0.5747458737282339,No data,0.5249046581858976,0,No data,No data,0.846033149566494,0.8103465364433904,No data,No data,No data,No data,No data,0.9563350202751788,No data,1
+KDR,0.7003374583052552,0.947485628812858,No data,No data,0,No data,No data,0.6909487624206722,0.19128169060685749,No data,No data,No data,No data,No data,0.8420479616074302,No data,1
+FANCD2,0.6997981380718239,No data,No data,No data,0,No data,No data,0.6806477127944752,No data,0.547137717850459,No data,No data,No data,No data,0.8446686435393056,No data,1
+POT1,0.696604040420136,No data,0.0863618657892515,0.45887519307159536,0,No data,No data,0.8767053950242231,0.8200500259846616,No data,No data,No data,No data,No data,0.776179397613495,No data,1
+SRC,0.6950239545290123,0.9723341295416243,No data,No data,No data,No data,No data,0.6037090559615403,No data,No data,No data,No data,No data,No data,0.9000106354598608,No data,1
+BCOR,0.6938672799184403,No data,No data,No data,0.547137717850459,No data,No data,0.8779543593407081,0.7802435880337558,No data,No data,No data,No data,No data,0.6040521488602277,No data,1
+PAX5,0.6936570848386553,No data,No data,No data,0.48634463808929684,No data,No data,0.8381820024672366,No data,0.6894533509468309,No data,No data,No data,No data,0.9847018882882986,No data,1
+SH2B3,0.6932340955565605,No data,No data,No data,0.5592963338026914,No data,No data,0.7115154160828175,No data,No data,0.865457038266544,No data,No data,No data,0.8701541399882778,No data,1
+LCK,0.6930791975661517,0.9680639708566167,No data,No data,0,No data,No data,0.6037090559615403,No data,No data,No data,No data,No data,No data,0.9482137873237263,No data,1
+IL7R,0.6911512316120393,No data,No data,No data,0,No data,No data,0.8497858088110102,0.39125760005104626,No data,0.865457038266544,No data,No data,No data,0.9745940583473125,No data,1
+PRKCH,0.6890955722089626,0.939041523830604,No data,No data,0,No data,No data,No data,No data,No data,0.7599134970145264,No data,No data,No data,0.20204968658860833,No data,1
+CDKN2A,0.6862158537285032,No data,0.753798283315449,No data,No data,No data,No data,0.8634981154857228,No data,0.5809116510511045,No data,No data,No data,No data,0.9823638051900615,No data,1
+LYN,0.6855208823484819,0.9723341295416243,No data,No data,No data,No data,No data,0.4137306817079088,0.31571562408800385,No data,No data,No data,No data,No data,0.9391881893514711,No data,1
+RET,0.6761247938699927,0.9295698097565279,No data,No data,0,No data,No data,0.6612513946521403,No data,No data,No data,No data,No data,No data,0.7781079259710542,No data,1
+SMO,0.6717969417167522,0.918809948524832,No data,No data,No data,No data,No data,0.6696948779523016,No data,No data,No data,No data,No data,No data,0.846958026852636,No data,1
+JAK1,0.6707117728404012,0.47350615604254115,No data,No data,0,No data,No data,0.8528254627990682,0.3065869023036678,0.4377101742803672,0.607930797611621,No data,No data,No data,0.8974290496072304,No data,1
+STAT5B,0.6672216233966564,No data,No data,No data,No data,No data,No data,0.9199005839308011,No data,No data,No data,No data,No data,0.607930797611621,0.9753099793863305,No data,1
+NSD1,0.6668937588364238,No data,No data,No data,0.8261425257875297,No data,No data,0.46530488016595617,No data,No data,No data,No data,No data,No data,0.9033645496723274,No data,1
+PML,0.664349536278827,No data,No data,No data,0,No data,No data,0.821677577355207,No data,No data,0.865457038266544,No data,No data,No data,0.9867648803572676,No data,1
+CUX1,0.6612873847129899,No data,No data,No data,0,No data,No data,0.7204876832817734,No data,No data,No data,No data,No data,0.8897742701710087,0.804210446661378,No data,1
+SETD2,0.6600977074147386,No data,No data,No data,0,No data,No data,0.709125760424553,0.7968379676634463,0.547137717850459,No data,No data,No data,No data,0.9464318432675575,No data,1
+FBXW7,0.6573447048547322,No data,No data,0.15198269940290526,0,No data,No data,0.857712303211171,0.5097299958602775,No data,0.607930797611621,No data,No data,No data,0.6814422162769466,No data,1
+PRKCB,0.6526247161069031,0.939123129563786,No data,No data,0,No data,No data,0.4588070358067526,No data,No data,No data,No data,No data,No data,0.8861946147631624,No data,1
+CREBBP,0.6525230485951505,0.12411920451237263,No data,No data,0,No data,No data,0.8678248417181763,0.6957716561338391,No data,No data,No data,No data,No data,0.9597288780202717,No data,1
+NFKBIE,0.6517864443293115,No data,0.7128879719887758,0.6886839118887571,No data,No data,No data,0.7868482087420412,0.3931611471929007,No data,No data,No data,No data,No data,0.747000082777256,No data,1
+PHF6,0.650874897459489,No data,No data,No data,0,No data,No data,0.8673294332592381,0.7268137287933495,No data,No data,No data,No data,No data,0.9723113061058659,No data,1
+RAD21,0.6453135158358094,No data,No data,No data,0,No data,No data,0.8616995036584695,0.5629543197263868,0.4377101742803672,No data,No data,No data,No data,0.8335348395237604,No data,1
+PRKD1,0.6439176932918221,0.939041523830604,No data,No data,No data,No data,No data,0.45458529415667187,No data,No data,No data,No data,No data,No data,0.29285385423961374,No data,1
+FANCA,0.6425497287793029,No data,No data,No data,0,No data,No data,0.6940504501635887,No data,No data,No data,No data,No data,No data,0.8089138008257699,No data,1
+PRF1,0.6397568915993919,No data,0.8788277552818099,No data,No data,No data,No data,0.6037090559615403,No data,No data,No data,No data,No data,No data,0.7978073740606131,No data,1
+FAS,0.6359662863146605,No data,0.7210902246558044,No data,No data,No data,No data,0.846033149566494,No data,No data,No data,No data,No data,No data,0.8914744963997233,No data,1
+NR3C1,0.6353884545662576,0.9873199718294374,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9309724807634127,No data,1
+DNMT1,0.631975629266502,0.991205410728211,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.966930230908384,No data,1
+BLM,0.6315114365453639,No data,No data,No data,0,No data,No data,0.6758982534381345,No data,No data,No data,No data,No data,No data,0.1960541490993196,No data,1
+ARID5B,0.6312304808894416,No data,0.8654712877981086,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9392500158200839,No data,1
+FANCC,0.6303266878810828,No data,No data,No data,0,No data,No data,0.6395938599872263,No data,No data,No data,No data,No data,No data,0.5167816038224676,No data,1
+MS4A1,0.6289024515291083,0.9874515503219836,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.940904558591037,No data,1
+CSF1R,0.6281207413959239,0.8951061731463493,No data,No data,0,No data,No data,0.47089040653723957,No data,No data,No data,No data,No data,No data,0.91719673467583,No data,1
+DDX3X,0.6247285397352638,No data,No data,No data,0,No data,No data,0.8864035540953907,0.4277517329675917,No data,No data,No data,0.2796481669013457,No data,0.257400352547803,No data,1
+SBDS,0.6207924222100601,No data,No data,No data,0,No data,No data,0.6037090559615403,No data,No data,No data,No data,No data,No data,0.21474421130043195,No data,1
+PTEN,0.6203124383339809,No data,No data,No data,0,No data,No data,0.8616995036584695,No data,0.547137717850459,No data,No data,No data,No data,0.9847316560865822,No data,1
+FANCG,0.6199000762226741,No data,No data,No data,0,No data,No data,0.5847112185361772,No data,No data,No data,No data,No data,No data,0.3624170197564443,No data,1
+CEP43,0.6191579760272952,No data,0.23062803671629356,No data,0,No data,No data,0.4063426338202676,No data,No data,No data,No data,No data,0.8897742701710087,0.11860719522443583,No data,1
+HCK,0.6191321221025368,0.9723279842224732,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9219468802754109,No data,1
+FANCE,0.618833520044719,No data,No data,No data,0,No data,No data,0.6037090559615403,No data,No data,No data,No data,No data,No data,0.0697431720593332,No data,1
+TOP2A,0.6173829080631122,0.9855596622620167,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.5997668340524313,No data,1
+RRM2,0.6170794010536699,0.9824846524336664,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.6512821109333573,No data,1
+DHFR,0.6169810606200568,0.9631816161361348,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.864542176936839,No data,1
+CD33,0.6163327491125481,0.9643057454995124,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9902965346654843,No data,1
+CD22,0.6148357356051446,0.963437487993787,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9584122138439995,No data,1
+FYN,0.6148241444558756,0.9680514811731926,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.8657510190479717,No data,1
+LEF1,0.6138525813937126,No data,0.7009081076063294,No data,0,No data,No data,0.8132340940550455,No data,No data,No data,No data,No data,No data,0.9575893667476045,No data,1
+PIK3CD,0.6134866346043011,0.9611670227572161,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9594381444761385,No data,1
+CHEK2,0.6124831324288208,0.08274613634158175,0.5512690550804121,0.7698605071244592,0,No data,No data,0.6517524759394587,No data,No data,No data,No data,No data,No data,0.8102125045797361,No data,1
+RARG,0.6115418402992657,0.9612472296460512,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.893853227549048,No data,1
+TCF3,0.6110723372642348,No data,No data,No data,0,No data,No data,0.9077081042501174,No data,No data,No data,No data,No data,No data,0.9660663103558329,No data,1
+RPL5,0.6110210619427178,0.11694224370723544,No data,No data,0,No data,No data,0.7915765593901316,No data,No data,No data,No data,No data,No data,0.7298741833124673,No data,1
+POLE2,0.610901213036189,0.9934234432773804,0.03977135019659183,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.06839221473130737,No data,1
+SUZ12,0.6108228735371524,No data,No data,No data,0,No data,No data,0.8424623794180129,0.3564242917046224,0.4377101742803672,No data,No data,No data,No data,0.7427619149277739,No data,1
+BLK,0.6104572719079642,0.9680514811731926,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.7220875440252389,No data,1
+KMT2C,0.610404781661912,No data,No data,No data,0,No data,No data,0.8697795830443231,0.47172406764132857,No data,No data,No data,No data,No data,0.736151217785581,No data,1
+CD19,0.6101969150584451,0.95414504398393,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9916509428553745,No data,1
+ZMYM2,0.6100551695295776,No data,No data,No data,0,No data,No data,0.43880782710938815,No data,No data,No data,No data,No data,0.8897742701710087,0.18081915959400913,No data,1
+RRM2B,0.609781517606114,0.9824856248733947,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.27473014230390974,No data,1
+XDH,0.6097498943729458,0.9885923772173155,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.2879979765080848,No data,1
+FGR,0.6093721058085998,0.9680514811731926,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.6863872273567073,No data,1
+EPHA2,0.6087736124354441,0.968053438877201,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.6666585502088841,No data,1
+PRIM2,0.6086910468667663,0.9934234432773804,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.15654218038499243,No data,1
+TP63,0.6083457695219416,No data,0.5687610201145312,No data,0,No data,No data,0.8497237750561517,No data,No data,No data,No data,No data,No data,0.3945855238914838,No data,1
+IRF8,0.6080495269511854,No data,0.8797160912002343,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.3726615742977798,No data,0.9581515265653603,No data,1
+POLA2,0.6067405378531325,0.9934234432773804,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.09237339600042577,No data,1
+AXL,0.606658063719874,0.9494043598409363,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9700417909954345,No data,1
+POLD2,0.6060115929203024,0.9934234432773804,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.06839221473130737,No data,1
+POLA1,0.6058967665126732,0.9934234432773804,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.06461460030281516,No data,1
+RRM1,0.6050946069181349,0.9824856248733947,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.2569811359315399,No data,1
+PRIM1,0.6048566558744126,0.9934234432773804,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.030396539880581056,No data,1
+POLD4,0.6048566558744126,0.9934234432773804,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.030396539880581056,No data,1
+POLD3,0.6048566558744126,0.9934234432773804,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.030396539880581056,No data,1
+POLE3,0.6039327062377009,0.9934234432773804,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,1
+TXNRD1,0.6026449224161518,0.9696285254299534,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.43353222492797594,No data,1
+ERCC4,0.6016530685924982,No data,No data,No data,0.5592963338026914,No data,No data,0.66019595923962,No data,No data,No data,No data,No data,No data,0.20536708298881012,No data,1
+NTRK2,0.6014564551467131,0.7802530728626793,No data,No data,No data,No data,No data,0.6904796800151077,0.2388552955436534,No data,No data,No data,No data,No data,0.7950182490437697,No data,1
+RARB,0.6009163080723491,0.9613504979291465,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.5422239882139779,No data,1
+TRIM24,0.6002529816800533,No data,No data,No data,0,No data,No data,0.6037090559615403,No data,No data,No data,No data,No data,0.8274613634158176,0.40418767740360356,No data,1
+PPAT,0.5984523456746537,0.9792872460657778,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.10242840452332401,No data,1
+FANCF,0.5971720302800462,No data,No data,No data,No data,No data,No data,0.4559480982087158,No data,No data,No data,No data,No data,No data,0.1286361840334907,No data,1
+CXCR4,0.5971579602213973,0.7897438740421007,No data,No data,No data,No data,No data,0.6819775614142507,No data,No data,No data,No data,No data,No data,0.9918556250569425,No data,1
+PRKCA,0.5967106655721703,0.939041523830604,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.850044218878547,No data,1
+NUP214,0.5962295839468861,No data,No data,No data,0.29954311198230765,No data,No data,0.8843232932905909,No data,No data,No data,No data,No data,No data,0.9694494335155951,No data,1
+IFNAR1,0.5948692786145421,0.9416122262533632,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.738051335961859,No data,1
+CD3E,0.5947815198622588,0.9389702828812774,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.7880030737293404,No data,1
+PRKCD,0.5937165715388948,0.939041523830604,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.7515430722007191,No data,1
+YES1,0.5928226745369238,0.9680514811731926,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.14193607151154333,No data,1
+FRK,0.5920777687749555,0.968055763657721,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.11734415351232312,No data,1
+PRKCE,0.5915197768344608,0.939041523830604,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.6792718626135607,No data,1
+MEN1,0.5912530996616523,0.7899989349334313,No data,No data,0,No data,No data,0.5699351227608948,No data,No data,No data,No data,0.25229128100882275,No data,0.9641098465156692,No data,1
+NOTCH2,0.589806859081122,No data,No data,No data,0,No data,No data,0.7050938226965915,0.20028534770055972,No data,0.7599134970145264,No data,No data,No data,0.9397293690591147,No data,1
+GAB2,0.5888492294808328,No data,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,0.31855574722477725,0.865457038266544,0.8538944028011717,No data,1
+NTRK1,0.588755319805628,0.7816115355091942,No data,No data,0,No data,No data,0.6696948779523016,No data,No data,No data,No data,No data,No data,0.874014302942068,No data,1
+SRMS,0.5885083090787302,0.9680514811731926,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,1
+PALB2,0.5875980870645635,No data,No data,No data,0.5592963338026914,No data,No data,0.5699351227608948,No data,No data,No data,No data,No data,No data,0.1610336225544993,No data,1
+TBL1XR1,0.5862618535621773,No data,No data,No data,0,No data,No data,0.8381820024672366,0.4328826915125422,No data,No data,No data,No data,No data,0.8079100687541807,No data,1
+GRB2,0.5856635353885775,0.17871847232490923,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,0.2980597893188495,0.865457038266544,0.2833960666419378,No data,1
+PBX1,0.5851433482010859,No data,No data,No data,No data,No data,No data,0.9144712742844783,No data,No data,No data,No data,No data,No data,0.9609020351381277,No data,1
+BIRC3,0.5850853923482102,0.12697310186782718,No data,0.15198269940290526,0,No data,No data,0.8231314934846989,0.41944474282317323,No data,No data,No data,No data,No data,0.893273448882815,No data,1
+NTRK3,0.5837496611629375,0.7802530728626793,No data,No data,0,No data,No data,0.6978031094081049,No data,No data,No data,No data,No data,No data,0.248400741415709,No data,1
+EEF2,0.5819852601345821,0.9280596109665955,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.5852390001762531,No data,1
+PIK3R1,0.5813763795585813,0.17020650299353537,No data,No data,0,No data,No data,0.6799959275784986,No data,No data,No data,No data,No data,0.7599134970145264,0.5996548869582653,No data,1
+IFNAR2,0.5790606073187102,0.9416122262533632,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.21797005835791672,No data,1
+PIK3CG,0.5783644703616718,0.9133459347330016,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.7603940400753522,No data,1
+CD52,0.5779717688245897,0.9062369608659329,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.8896542332276373,No data,1
+CD3D,0.5773816981687655,0.9386986124405416,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.2210087732767491,No data,1
+CD3G,0.5762037594129007,0.9386986124405416,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.1822563770996685,No data,1
+DNM2,0.575816018142347,No data,No data,No data,0,No data,No data,0.821677577355207,No data,No data,No data,No data,0.40245016946631756,No data,0.8535411023317705,No data,1
+PRKCG,0.5738233014918733,0.939041523830604,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.0970846988076906,No data,1
+PRKCZ,0.5737035306460125,0.939041523830604,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.09314441987030844,No data,1
+PRKCQ,0.5735296827686067,0.939041523830604,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.08742508871982876,No data,1
+PRKCI,0.5735228687583558,0.939041523830604,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.08720091813074692,No data,1
+IMPDH2,0.5733478311438934,0.9207732304036379,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.4468083149772377,No data,1
+RUNX1T1,0.5730634349118023,No data,No data,No data,0,No data,No data,0.893333248383727,No data,No data,No data,No data,No data,No data,0.9862517512414234,No data,1
+CNTRL,0.572954692495199,No data,No data,No data,0,No data,No data,0.4522105644785015,No data,No data,No data,No data,No data,0.8274613634158176,0.08788312764862416,No data,1
+PRKD3,0.5718886071731542,0.939041523830604,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.03343619386863916,No data,1
+CRLF2,0.5695180039180172,No data,No data,No data,No data,No data,No data,0.6205960225618631,No data,No data,0.7599134970145264,No data,No data,No data,0.9788115834720829,No data,1
+ZRSR2,0.5684842641519596,No data,No data,No data,0,No data,No data,0.8632193306524987,0.2531869573229927,No data,No data,No data,No data,No data,0.38688199979621846,No data,1
+MPL,0.5684647431407758,0.19261222409009632,No data,No data,0,No data,No data,0.8585963490935259,No data,No data,No data,No data,No data,No data,0.9155074406199766,No data,1
+MLLT10,0.5676799344311692,No data,No data,No data,0.24317231904464845,No data,No data,0.8497237750561517,No data,No data,No data,No data,No data,No data,0.8841250987190621,No data,1
+AFF1,0.566133258552939,No data,No data,No data,0,No data,No data,0.8828034662965618,No data,No data,No data,No data,No data,No data,0.9688551153738523,No data,1
+CNOT3,0.5647382532488406,No data,No data,No data,No data,No data,No data,0.8277568853313232,0.3335802964414748,No data,No data,No data,No data,No data,0.8009813171430268,No data,1
+IMPDH1,0.5636596041227491,0.9208029093326201,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.12748678054451318,No data,1
+MLLT1,0.5634297985381308,No data,No data,No data,0,No data,No data,0.882036636227343,No data,No data,No data,No data,No data,No data,0.8952519879131305,No data,1
+ERG,0.5619720362819121,No data,0.7017118579648289,No data,0,No data,No data,0.6978031094081049,No data,0.2847277664547228,No data,No data,No data,No data,0.9770446251952748,No data,1
+CTCF,0.5607994755851371,No data,No data,No data,0,No data,No data,0.6977410756532464,0.607930797611621,0.547137717850459,No data,No data,No data,No data,0.9564559421273138,No data,1
+RTEL1,0.5604231446168222,No data,0.16956188079753648,No data,0.5592963338026914,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.26205830274413583,No data,1
+MYC,0.5602525449115955,No data,No data,No data,No data,No data,No data,0.8381820024672366,0.22051600336237448,No data,No data,No data,No data,No data,0.9950356509254599,No data,1
+RHOA,0.5573206657215269,No data,No data,No data,No data,No data,No data,0.8277568853313232,No data,No data,No data,No data,0.279161811131711,No data,0.8641277059877606,No data,1
+NT5C2,0.5549486115256425,No data,No data,No data,No data,No data,No data,0.8719559356678823,No data,No data,No data,No data,No data,No data,0.8178478264482039,No data,1
+SET,0.554484829654654,No data,No data,No data,No data,No data,No data,0.8657525601820495,No data,No data,No data,No data,No data,No data,0.9266576169372583,No data,1
+GNB1,0.5502079219915167,No data,No data,No data,0.7289900837760153,No data,No data,No data,No data,0.6960807632653061,No data,No data,No data,No data,0.09179901403085686,No data,1
+CDKN1B,0.5492429296625168,No data,No data,No data,0,No data,No data,0.8553375735330006,No data,No data,No data,No data,No data,No data,0.9625068008514358,No data,1
+FGFR1OP2,0.546453768500261,No data,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,0.8897742701710087,0.1820137016462217,No data,1
+IL2RA,0.5440939328837019,0.8469951080603267,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.959961935867827,No data,1
+CBFA2T3,0.5436869413843756,No data,No data,No data,0,No data,No data,0.8387097201734968,No data,No data,No data,No data,No data,No data,0.893695395684553,No data,1
+CCND3,0.5433841504523176,No data,No data,No data,0,No data,No data,0.8424623794180129,No data,No data,No data,No data,No data,No data,0.8190637065643431,No data,1
+KDM5A,0.5422257362309756,No data,No data,No data,0,No data,No data,0.8497237750561517,No data,No data,No data,No data,No data,No data,0.8439277632359645,No data,1
+HNRNPA2B1,0.540659843974739,No data,No data,No data,0,No data,No data,0.8193134020311618,No data,No data,No data,No data,0.25229128100882275,No data,0.31311751842581725,No data,1
+NUP98,0.5396482235027372,No data,No data,No data,0,No data,No data,0.8387097201734968,No data,No data,No data,No data,No data,No data,0.9794126065007484,No data,1
+IL3RA,0.5375742991001239,0.8352590196391235,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.9801976539324889,No data,1
+APC,0.537545072492207,No data,No data,No data,0,No data,No data,0.6893009908072479,0.31854989524632443,No data,No data,No data,No data,0.607930797611621,0.6034163015752815,No data,1
+TNFAIP3,0.5371321389081722,No data,No data,No data,0,No data,No data,0.8278809528410398,No data,No data,No data,No data,No data,No data,0.885774219063009,No data,1
+ALK,0.5363803988720028,0.13678442946261474,No data,No data,0,No data,No data,0.7076059334305238,No data,No data,0.607930797611621,No data,No data,No data,0.6014499474653406,No data,1
+ARHGAP26,0.5360189810832287,No data,No data,No data,0,No data,No data,0.6227068933869035,No data,0.547137717850459,No data,No data,No data,No data,0.4378513787866247,No data,1
+IL2RG,0.5356319989348769,0.846906526883239,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.40108507755656325,No data,1
+CSF2RB,0.5355623947047523,0.8499088401430938,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.6210126446481823,No data,1
+CARD11,0.5331723000822804,No data,No data,No data,0,No data,No data,0.8466841210680937,No data,No data,No data,No data,No data,No data,0.24797162541452986,No data,1
+IL2RB,0.5324661662109788,0.8469181138729603,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.21652903686046224,No data,1
+PIK3CA,0.5320805135641311,0.18249044030307654,No data,No data,No data,No data,No data,0.6904796800151077,No data,No data,No data,No data,No data,0.607930797611621,0.9613804658517229,No data,1
+MBD4,0.5313199447039515,No data,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.1704785200005833,No data,1
+STAG2,0.5307946718558136,No data,No data,No data,0,No data,No data,0.7191478409694436,0.5393501824869894,No data,No data,No data,No data,No data,0.8609194676606398,No data,1
+SYK,0.5306139507328609,0.49237940604690955,No data,No data,0,No data,No data,0.6517524759394587,No data,No data,0.607930797611621,No data,No data,No data,0.969755080245614,No data,1
+FLT4,0.5294468347924378,0.6353179962243424,No data,No data,0,No data,No data,0.6947014216651883,No data,No data,No data,No data,No data,No data,0.7816013987357128,No data,1
+RPS29,0.5293327034863583,0.11694224370723544,0.3895482851560013,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.03343619386863916,No data,1
+KMT2D,0.529282596960668,No data,No data,No data,0,No data,No data,0.7217861064082709,0.5231058760792766,No data,No data,No data,No data,No data,0.8130197926311835,No data,1
+BCL11B,0.528171580902942,No data,No data,No data,No data,No data,No data,0.821677577355207,No data,No data,No data,No data,No data,No data,0.94249135047469,No data,1
+BAK1,0.5280028872000686,No data,0.8196413590868776,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.7884949595882877,No data,1
+CDA,0.5277937747406326,0.8283551502026963,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.7965106445447971,No data,1
+SPEN,0.5271186304462353,No data,No data,No data,0,No data,No data,0.6867270207705914,0.6651889246554061,No data,No data,No data,No data,No data,0.6320641228654538,No data,1
+INSL6,0.5261278265120808,No data,No data,No data,0.6774382433171148,No data,No data,No data,No data,0.6960807632653061,No data,No data,No data,No data,No data,No data,1
+SP140,0.5259672763490686,No data,0.8487256064640758,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.32901249606851596,No data,1
+BAX,0.5252621935890031,No data,No data,No data,No data,No data,No data,0.634865509339136,No data,0.6839221473130737,No data,No data,No data,No data,0.9620054558305735,No data,1
+RPL10,0.5228705303833561,0.11694224370723544,No data,No data,No data,No data,No data,0.8037351753423639,No data,No data,No data,No data,No data,No data,0.8670712264585972,No data,1
+AR,0.5215377709083202,0.607930797611621,No data,No data,No data,No data,No data,0.6867270207705914,No data,No data,No data,No data,No data,No data,0.863113994552749,No data,1
+MLLT3,0.5212218013771296,No data,No data,No data,0,No data,No data,0.8079569169924447,No data,No data,No data,No data,No data,No data,0.988267365697025,No data,1
+LPP,0.5198054001052174,No data,0.5129234564996862,No data,0.6295461148600343,No data,No data,0.6395938599872263,No data,No data,No data,No data,No data,No data,0.0854823094300441,No data,1
+CSF2RA,0.5195109784769992,0.8499088401430938,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.09294542743154056,No data,1
+MYB,0.5193904899486071,No data,0.4791183084295289,No data,0,No data,No data,0.6758982534381345,No data,No data,No data,No data,0.3675954920479228,No data,0.9816691979646796,No data,1
+PLCG1,0.5190187285010659,No data,No data,No data,0,No data,No data,0.8121786586425254,No data,No data,No data,No data,No data,No data,0.8313547807960524,No data,1
+MAP2K1,0.5188836752656559,0.19272809403826288,No data,No data,0,No data,No data,0.7915765593901316,No data,No data,No data,No data,No data,No data,0.6194548109426535,No data,1
+FES,0.5184965879116449,No data,No data,No data,0,No data,No data,0.8183820341283582,No data,No data,No data,No data,No data,No data,0.5764400890624415,No data,1
+TAL1,0.5167758177626263,No data,No data,No data,No data,No data,No data,0.8010754781028131,No data,No data,No data,No data,No data,No data,0.979630034519018,No data,1
+ETNK1,0.5159336745582368,No data,No data,No data,No data,No data,No data,0.8278809528410398,No data,No data,No data,No data,No data,No data,0.4158153072609859,No data,1
+EGFR,0.5156583139348682,0.4930007927439638,No data,No data,No data,No data,No data,0.7008427633961629,No data,No data,No data,No data,No data,No data,0.902678048232993,No data,1
+IKZF3,0.5154908846303071,No data,0.06909584063792425,No data,0,No data,No data,0.6758982534381345,0.607930797611621,No data,No data,No data,No data,No data,0.4187025368883176,No data,1
+CPSF6,0.5154744729642878,No data,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,0.8274613634158176,0.409100060696537,No data,1
+NSD2,0.5149130697976233,No data,No data,No data,0,No data,No data,0.6861993030643314,0.607930797611621,No data,No data,No data,No data,No data,0.3964904281497825,No data,1
+STIL,0.5140427430359333,No data,No data,No data,0,No data,No data,0.833960260817156,No data,No data,No data,No data,No data,No data,0.23202037234079426,No data,1
+ACTA2,0.5132416502462337,No data,0.8211083704900765,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.4627034426904712,No data,1
+SLX4,0.5120537769981848,No data,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.0811485259115998,No data,1
+ACOXL,0.5118488447623881,No data,0.8267511239467151,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,No data,0.05074926535306646,No data,1
+MDM2,0.511090802837524,0.5138825895318847,No data,No data,0,No data,No data,0.6612513946521403,No data,No data,No data,No data,0.3214738122704267,No data,0.9686459135442966,No data,1
+SND1,0.5110709040971128,No data,No data,No data,0,No data,No data,0.8387097201734968,No data,No data,No data,No data,No data,No data,0.03926219734575053,No data,1
+MED12,0.5085771022268509,No data,No data,No data,0,No data,No data,0.7076059334305238,0.3653992529404568,No data,No data,No data,0.25229128100882275,No data,0.7666083283312759,No data,1
+HRAS,0.5071389364342379,No data,No data,No data,0,No data,No data,0.6696948779523016,No data,No data,0.607930797611621,No data,No data,No data,0.5637359000991977,No data,1
+LRRFIP1,0.5069201944421144,No data,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,0.8274613634158176,0.12767728837506065,No data,1
+MYO18A,0.5065836201216745,No data,No data,No data,0,No data,No data,No data,No data,No data,No data,No data,No data,0.8274613634158176,0.11660450437522898,No data,1
+EPS15,0.5051450119728542,No data,No data,No data,0,No data,No data,0.8183820341283582,No data,No data,No data,No data,No data,No data,0.25086306678780906,No data,1
+CTNNB1,0.5039693900984076,0.12411920451237263,0.1551961902997257,No data,0,No data,No data,0.6433089926392973,No data,No data,No data,No data,No data,0.607930797611621,0.7898616436032176,No data,1
+AMER1,0.5036888630962852,No data,No data,No data,No data,No data,No data,0.6757741859284179,No data,No data,No data,No data,No data,0.607930797611621,0.034787151196664985,No data,1
+FAT4,0.5029286434498036,No data,No data,No data,No data,No data,No data,0.7135481220290796,0.4482603571313189,No data,No data,No data,No data,No data,0.0749798204020933,No data,1
+AXIN1,0.5018137814827337,No data,No data,No data,No data,No data,No data,0.6711487940817937,No data,No data,No data,No data,No data,0.607930797611621,0.10413327498593423,No data,1

@@ -1,0 +1,9 @@
+Measure,Value
+Number of nodes,20.0
+Number of unique edges,158.0
+Network density,0.8315789473684211
+Number of connected components,1.0
+Largest component size,20.0
+Average degree,15.8
+Average clustering coefficient,0.7553233085696835
+Number of detected communities,2.0

@@ -1,0 +1,18 @@
+{
+  "task": "observed_edge_vs_sampled_unobserved_pair",
+  "nodes": 20,
+  "observed_edges": 158,
+  "sampled_unobserved_pairs": 32,
+  "training_positive_edges": 118,
+  "test_positive_edges": 40,
+  "random_state": 42,
+  "features": [
+    "common_neighbors",
+    "jaccard",
+    "adamic_adar",
+    "resource_allocation",
+    "preferential_attachment",
+    "degree_sum"
+  ],
+  "warning": "Unobserved pairs are not confirmed biological negatives. Metrics are exploratory and may be unstable for small networks."
+}
