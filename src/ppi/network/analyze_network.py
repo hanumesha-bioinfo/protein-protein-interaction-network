@@ -74,7 +74,7 @@ def load_network(path: Path) -> nx.Graph:
     return graph
 
 
-def analyze_network(graph: nx.Graph) -> tuple[pd.DataFrame, pd.DataFrame]:
+def analyze_network(graph: nx.Graph) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """Calculate node-level metrics and network-level summaries."""
     degree = dict(graph.degree())
     degree_centrality = nx.degree_centrality(graph)

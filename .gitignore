@@ -8,3 +8,4 @@ __pycache__/
 .env.*
 .streamlit/secrets.toml
 .DS_Store
+target-disease.tsv
